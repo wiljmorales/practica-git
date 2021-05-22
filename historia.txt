@@ -1,3 +1,5 @@
 Mi Nombre es Wilfredo Morales y tengo 27 años.
 
 Este es el comienzo de mi historia con Git y GitHub.
+
+Acompañame en la aventura.
