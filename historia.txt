@@ -5,3 +5,5 @@ Este es el comienzo de mi historia con Git y GitHub.
 Acompañame en el juego.
 
 Crees que estas muy grande para jugara conmigo? 
+
+Hay que dormir 8 hrs todos los dias
